@@ -1,0 +1,20 @@
+footer {
+    background-color: burlywood;
+    text-align: center;
+}
+
+.centro {
+    font-size: 50px;
+    margin: 30px 30px; 
+    text-align: center;
+    text-justify: inter-word;
+}
+h1{
+    text-align: center;
+}
+h2{
+      color:black
+}
+a{
+    font-family: 'Times New Roman', Times, serif;
+}
